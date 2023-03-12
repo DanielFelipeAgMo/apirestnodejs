@@ -52,5 +52,8 @@ module.exports = dbConnect;
     
 12-Ahora requiera dicha conexión dentro del app.js
 
+13-Momento de declarar los modelos del api que contendrán los datos a interactuar con la BD, dirígete a models
+
+14-Recordar que la lógica MVC de un Api apunta a vistas externas por ende se deben proporcionar rutas para su consumo
 
 
